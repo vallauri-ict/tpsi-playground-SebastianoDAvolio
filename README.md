@@ -1,5 +1,5 @@
 ## About
-Questa è una repository scolastica di Sebastiano D'Avolio(mailto:s.davolio.1297@vallauri.edu?subject="GitHub")
+Questa è una repository scolastica di [Sebastiano D'Avolio](mailto:s.davolio.1297@vallauri.edu?subject="GitHub")
 
 ## Installazione
 Per utilizzare questa repo è sufficente inserire il comando:
