@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libretti SYSTEM "primo.dtd">
+<libretti>
+    <libretto aid="A1">
+        <studente cdl="1" matricola="1297">
+            <nome>
+                Sebastiano
+            </nome>
+            <cognome>
+                D'Avolio
+            </cognome>
+        </studente>
+        <esami>
+            <esame>
+                <materia>
+                    T.P.S.I.T.
+                </materia>
+                <voto>
+                    10
+                </voto>
+                <data>
+                    01/10/2020
+                </data>
+            </esame>
+            <esame>
+                <materia>
+                    Informatica
+                </materia>
+                <voto>
+                    8
+                </voto>
+                <data>
+                    05/10/2020
+                </data>
+            </esame>
+        </esami>
+    </libretto>
+</libretti>
