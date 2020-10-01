@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE libretti SYSTEM "primo.dtd">
 <libretti>
-    <libretto aid="A1">
+    <libretto>
         <studente cdl="1" matricola="1297">
             <nome>
                 Sebastiano
