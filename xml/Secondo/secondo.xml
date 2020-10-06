@@ -1,0 +1,15 @@
+<?xml version=“1.0“ ?>
+<verbali>
+    <verbale>
+        <studente cdl=”007” matr=”001203”>
+
+            <nome>Filippo</nome><nome>Maria</nome>
+            <cognome>Rossi</cognome>
+
+        </studente>
+        <esame>
+            <materia>Gastronomia</materia> <docente>Vissani</docente>
+            <voto>30</voto> <lode>Sì</lode> <data>01/04/04</data>
+        </esame>
+    </verbale>
+</verbali>

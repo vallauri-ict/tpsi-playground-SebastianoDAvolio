@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8">
+<!DOCTYPE verbali>
+<!ELEMENT verbali (verbale)*>
+<!ELEMENT verbale(studente,esame)>
+<!ELEMENT studente (nome+,cognome)>
+<!ATTLIST studente cdl CDATA #REQUIRED matr CDATA #REQUIRED>
+<!ELEMENT esame (materia,docente,voto,lode?,data)+>
+<!ELEMENT nome #PCDATA>
+<!ELEMENT cognome #PCDATA>
+<!ELEMENT materia #PCDATA>
+<!ELEMENT docente #PCDATA>
+<!ELEMENT voto #PCDATA>
+<!ELEMENT lode #PCDATA>
+<!ELEMENT data #PCDATA>
