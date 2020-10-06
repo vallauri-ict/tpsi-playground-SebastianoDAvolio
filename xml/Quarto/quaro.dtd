@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8">
+<!ELEMENT libretti (libretto)* >
+<!ELEMENT libretto (studente,esami?) >
+<!ELEMENT studente (nome,cognome) >
+<!ATTLIST studente matricola CDATA #REQUIRED >
+<!ELEMENT esami (esame)+ >
+<!ELEMENT esame materia >
+<!ATTLIST esame voto CDATA #REQUIRED
+data CDATA #REQUIRED >
