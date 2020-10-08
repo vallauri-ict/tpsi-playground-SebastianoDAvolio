@@ -1,0 +1,18 @@
+<?xml verion="1.0" encoding="ISO-8859-1" ?>
+<compositori>
+    <compositore epoca="barocco">
+        <nome>Gioacchino Rossini</nome>
+        <data_nascita>29/2/1792</data_nascita>
+        <data_morte>13/11/1868</data_morte>
+    </compositore>
+    <compositore epoca="barocco">
+        <nome>Giuseppe Verdi</nome>
+        <data_nascita>10/10/2813</data_nascita>
+        <data_morte>27/1/1901</data_morte>
+    </compositore>
+    <compositore epoca="barocco">
+        <nome>Wolfgang Amadeus Mozart</nome>
+        <data_nascita>27/1/1756</data_nascita>
+        <data_morte>5/12/1791</data_morte>
+    </compositore>
+</compositori>
